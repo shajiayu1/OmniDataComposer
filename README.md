@@ -23,7 +23,7 @@ Through these steps, OmniAssistant successfully transforms multimodal data into 
 We will open source the code and the model checkpoint soon. Stay tuned!
 
 <div style='display:flex; gap: 0.25rem; '>
-<a href='https://bytedance.github.io/SALMONN/'><img src='https://img.shields.io/badge/gradio-Demo-blue'></a>
+<a href='https://74a187d8ee4facdf2a.gradio.live'><img src='https://img.shields.io/badge/gradio-Demo-blue'></a>
 <a href=''><img src='https://img.shields.io/badge/paper-PDF-green'></a>
 </div>
 
