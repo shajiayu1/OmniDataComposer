@@ -21,7 +21,7 @@ Finally, the unified representation is fed into the large language model, which 
 Through these steps, OmniAssistant successfully transforms multimodal data into a unified format, creating a coherent narrative from a video input and preparing it for high-level language model processing. It generates dataset and trains itself. This unique approach paves the way for a more integrated and contextually aware interpretation and generation of multimodal data.
 
 We will open source the code and the model checkpoint soon. Stay tuned!
-
+# For demo, each video takes about 10 minutes to process, and it is recommended that the video duration be within 15 seconds.
 <div style='display:flex; gap: 0.25rem; '>
 <a href='https://74a187d8ee4facdf2a.gradio.live'><img src='https://img.shields.io/badge/gradio-Demo-blue'></a>
 <a href='https://arxiv.org/abs/2308.04126'><img src='https://img.shields.io/badge/paper-PDF-green'></a>
