@@ -8,7 +8,8 @@ Our crafted algorithm leverages advancements across multiple operations such as 
 
 Future prospects include optimizing datasets for each modality to encourage unlimited data generation. This robust base will offer priceless insights to models like ChatGPT, enabling them to create higher quality datasets for video captioning and easing question-answering tasks based on video content. OmniDataComposer inaugurates a new stage in multimodal learning, imparting enormous potential for augmenting AI's understanding and generation of complex, real-world data.
 
-[model.pdf](https://github.com/shajiayu1/OmniDataComposer/files/12459552/model.pdf)
+
+![model](https://github.com/shajiayu1/OmniDataComposer/assets/34560407/ca49734a-e39f-4a82-955c-fe982e880155)
 
 
 Omni model encodes each data modality into a format conducive to processing by the large language model. We use VideoMAE \cite{tong2022videomae} as video backbone. While for audio, we utilize transformer-based models akin to Whisper \cite{gong2023whisper}. The video encoder and audio encoder extract respective features into text-based embeddings.
@@ -20,3 +21,12 @@ Finally, the unified representation is fed into the large language model, which 
 Through these steps, OmniAssistant successfully transforms multimodal data into a unified format, creating a coherent narrative from a video input and preparing it for high-level language model processing. It generates dataset and trains itself. This unique approach paves the way for a more integrated and contextually aware interpretation and generation of multimodal data.
 
 We will open source the code and the model checkpoint soon. Stay tuned!
+
+<div style='display:flex; gap: 0.25rem; '>
+<a href='https://bytedance.github.io/SALMONN/'><img src='https://img.shields.io/badge/gradio-Demo-blue'></a>
+<a href=''><img src='https://img.shields.io/badge/paper-PDF-green'></a>
+</div>
+
+
+![video_caption2](https://github.com/shajiayu1/OmniDataComposer/assets/34560407/3f6515f1-7775-4eb3-8a8e-579ea9b8bf29)
+
