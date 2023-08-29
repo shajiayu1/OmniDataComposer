@@ -31,9 +31,9 @@ We will open source the code and the model checkpoint soon. Stay tuned!
 ![video_caption2](https://github.com/shajiayu1/OmniDataComposer/assets/34560407/3f6515f1-7775-4eb3-8a8e-579ea9b8bf29)
 
 
-Author：
+Author：  
 
-Dongyang Yu{yudongyang2022@gmail.com} Shihao Wang{wanghao.cst@gmail.com}
+Dongyang Yu{yudongyang2022@gmail.com} Shihao Wang{wanghao.cst@gmail.com}  
 
 Yuan Fang{mailto:ryanfang.cs@gmail.com}Wangpeng An{mailto:anwangpeng@gmail.com}
 
