@@ -32,7 +32,9 @@ We will open source the code and the model checkpoint soon. Stay tuned!
 
 
 Author：
+
 Dongyang Yu{yudongyang2022@gmail.com} Shihao Wang{wanghao.cst@gmail.com}
+
 Yuan Fang{mailto:ryanfang.cs@gmail.com}Wangpeng An{mailto:anwangpeng@gmail.com}
 
 
