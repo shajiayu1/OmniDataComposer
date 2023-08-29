@@ -35,7 +35,7 @@ Author：
 
 Dongyang Yu{yudongyang2022@gmail.com} Shihao Wang{wanghao.cst@gmail.com}  
 
-Yuan Fang{mailto:ryanfang.cs@gmail.com}Wangpeng An{mailto:anwangpeng@gmail.com}
+Yuan Fang{ryanfang.cs@gmail.com}Wangpeng An{anwangpeng@gmail.com}
 
 
 
