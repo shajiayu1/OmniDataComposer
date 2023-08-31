@@ -1,6 +1,7 @@
 # OmniDataComposer
 
-![demo](https://github.com/shajiayu1/OmniDataComposer/assets/34560407/a693cc4c-db91-47c6-920f-e1fcaabfd459)
+![summary2](https://github.com/shajiayu1/OmniDataComposer/assets/34560407/e5fb6a46-5274-4538-b4f1-4facd99bff0b)
+
 
 This paper presents OmniDataComposer, an innovative approach for multimodal data fusion and unlimited data generation with an intent to refine and uncomplicate interplay among diverse data modalities. Coming to the core breakthrough, it introduces a cohesive data structure proficient in processing and merging multimodal data inputs, which include video, audio, and text.
 
